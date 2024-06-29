@@ -1,0 +1,12 @@
+../Core/Src/ds18b20.c:77:6:Ds18b20_ManualConvert	8	static
+../Core/Src/ds18b20.c:190:9:DS18B20_Start	16	static
+../Core/Src/ds18b20.c:207:6:DS18B20_StartAll	16	static
+../Core/Src/ds18b20.c:217:6:DS18B20_Read	56	static
+../Core/Src/ds18b20.c:322:9:DS18B20_GetResolution	24	static
+../Core/Src/ds18b20.c:349:9:DS18B20_SetResolution	32	static
+../Core/Src/ds18b20.c:414:9:DS18B20_Is	16	static
+../Core/Src/ds18b20.c:423:9:DS18B20_SetAlarmLowTemperature	32	static
+../Core/Src/ds18b20.c:474:9:DS18B20_SetAlarmHighTemperature	32	static
+../Core/Src/ds18b20.c:525:9:DS18B20_DisableAlarmTemperature	24	static
+../Core/Src/ds18b20.c:571:9:DS18B20_AlarmSearch	16	static
+../Core/Src/ds18b20.c:577:9:DS18B20_AllDone	16	static

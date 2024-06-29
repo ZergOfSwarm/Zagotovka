@@ -1,0 +1,12 @@
+../Core/Src/setings.c:33:5:enablePort	8
+../Core/Src/setings.c:77:6:SetSetingsConfig	2
+../Core/Src/setings.c:152:6:StartSetingsConfig	2
+../Core/Src/setings.c:250:6:GetSetingsConfig	3
+../Core/Src/setings.c:323:6:GetCronConfig	4
+../Core/Src/setings.c:357:6:SetCronConfig	3
+../Core/Src/setings.c:402:6:GetPinConfig	4
+../Core/Src/setings.c:459:6:SetPinConfig	3
+../Core/Src/setings.c:517:6:GetPinToPin	4
+../Core/Src/setings.c:551:6:SetPinToPin	3
+../Core/Src/setings.c:589:6:InitPin	28
+../Core/Src/setings.c:759:6:InitMultibutton	6

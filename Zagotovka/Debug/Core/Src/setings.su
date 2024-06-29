@@ -1,0 +1,12 @@
+../Core/Src/setings.c:33:5:enablePort	16	static
+../Core/Src/setings.c:77:6:SetSetingsConfig	24	static
+../Core/Src/setings.c:152:6:StartSetingsConfig	24	static
+../Core/Src/setings.c:250:6:GetSetingsConfig	1072	static
+../Core/Src/setings.c:323:6:GetCronConfig	64	static
+../Core/Src/setings.c:357:6:SetCronConfig	56	static
+../Core/Src/setings.c:402:6:GetPinConfig	64	static
+../Core/Src/setings.c:459:6:SetPinConfig	32	static
+../Core/Src/setings.c:517:6:GetPinToPin	56	static
+../Core/Src/setings.c:551:6:SetPinToPin	32	static
+../Core/Src/setings.c:589:6:InitPin	168	static
+../Core/Src/setings.c:759:6:InitMultibutton	16	static

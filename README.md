@@ -1,1 +1,2 @@
-# Zagotovka 31.01.23
+# Zagotovka Mongoose
+STM32CubeIDE v 1.15.1
